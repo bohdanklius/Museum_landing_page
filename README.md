@@ -24,6 +24,6 @@ Made this landing page using BEM methodology and made it responsive by using SCS
 
 ### Installing
 
-Fork and clone this repository
-Run npm install in your terminal
-Run npm start to start a local server
+- Fork and clone this repository
+- Run npm install in your terminal
+- Run npm start to start a local server
