@@ -7,6 +7,7 @@ Implement responsive landing page according to [Figma design](https://www.figma.
  -Notebook 1280px
 - Tablet 1024px
 - Mobile (> 320px)
+
 You can check this page here:
 
  - [DEMO LINK](https://bohdanklius.github.io/Museum/).
