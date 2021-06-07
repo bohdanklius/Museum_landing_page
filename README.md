@@ -10,7 +10,7 @@ Implement responsive landing page according to [Figma design](https://www.figma.
 
 You can check this page here:
 
- - [DEMO LINK](https://bohdanklius.github.io/Museum/)
+ - [DEMO LINK](https://bohdanklius.github.io/Museum_landing_page/)
 
 ## Description
 
