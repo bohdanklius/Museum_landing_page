@@ -9,7 +9,7 @@ Tablet 1024px
 Mobile (> 320px)
 You can check this page here:
 
-DEMO
+ - [DEMO LINK](https://bohdanklius.github.io/Museum/).
 Description
 Made this landing page using BEM methodology and made it responsive by using SCSS(SASS) preprocessor.
 
@@ -21,5 +21,3 @@ Installing
 Fork and clone this repository
 Run npm install in your terminal
 Run npm start to start a local server
-Troubleshooting
-Any advice for common problems or issues. For any contributing or problem solving you could find me here
