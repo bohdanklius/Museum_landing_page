@@ -10,15 +10,20 @@ Implement responsive landing page according to [Figma design](https://www.figma.
 
 You can check this page here:
 
- - [DEMO LINK](https://bohdanklius.github.io/Museum/).
+ - [DEMO LINK](https://bohdanklius.github.io/Museum/)
+
 Description
+
 Made this landing page using BEM methodology and made it responsive by using SCSS(SASS) preprocessor.
 
 Local deployment
+
 Dependencies
-Node v12.16.3 and higher
-NPM v6.14.4 and higher
+- Node v12.16.3 and higher
+- NPM v6.14.4 and higher
+
 Installing
+
 Fork and clone this repository
 Run npm install in your terminal
 Run npm start to start a local server
